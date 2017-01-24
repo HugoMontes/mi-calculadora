@@ -1,11 +1,28 @@
 body{
 	background: #8E93FF;
+	font-family: Arial;
 }
 button{
 	padding: 10px 20px;
 	background: #8FFC8F;
 	border-radius: 5px;
-	border: #655DFE;
+	border: 1px solid #A0AA77;
 	color: #154215;
 	font-size: 24px;
+}
+h1{
+	text-align: center;
+}
+#form-calculadora{
+	background-color: #AEB8D1;
+	border-radius: 25px;
+	border: 2px solid #474346;
+	margin: 0 auto;
+	width: 400px;
+	padding: 20px;
+}
+#txtA, #txtB{
+	width: 100%;
+	margin: 5px 0px;
+	padding: 5px;
 }
